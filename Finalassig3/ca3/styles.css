@@ -1,0 +1,73 @@
+body {
+  font-size: 16px;
+  color: #FAF7F0;
+  background-color: #153462;
+  font-family: 'Oxygen', sans-serif;
+}
+
+/** HEADER **/
+#header-nav {
+  background-color: #ECF9FF;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+ 
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Sassy Frass', cursive;
+  color: #2B3A55;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  font-weight: bold;
+  font-size: 20px;
+  color: #3C4048;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#menu-categories-title{
+  padding-bottom: 20px;
+}
+
+p{
+  border: solid #5B6DCD 2px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
